@@ -1,5 +1,5 @@
 # Pirate Invasion
-A small personal 2D game built with Python.
+A small 2D game built with Python.
 
 ## How to Play
 1. Make sure Python and Pygame are installed
